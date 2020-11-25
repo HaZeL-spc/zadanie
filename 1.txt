@@ -1,1 +1,2 @@
 Pierwszy tekst
+Pierwszy tekst w new_test
